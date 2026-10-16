@@ -2,7 +2,7 @@
 
 Project information and proposal documents for TED University, Department of Computer Engineering, CMPE 491–492 (2026–2027).
 
-PerDrobe is a CMPE 491–492 capstone project at TED University. We plan to develop a clothing recommendation system that considers the user’s wardrobe, style preferences and interaction signals. The project is currently at the proposal stage.
+We plan to develop a clothing recommendation system that considers the user’s wardrobe, style preferences and interaction signals. The project is currently at the proposal stage.
 
 ## Documents
 
