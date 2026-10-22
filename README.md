@@ -11,7 +11,7 @@ We plan to develop a clothing recommendation system that considers the user’s 
 
 ## Team
 
-Yiğit Özmut, Atay Aktürk and Seyid Berat Ergün. Supervisor: Ayşenur Birtürk. Jury members will be determined by the supervisor.
+Yiğit Özmut, Atay Aktürk and Seyid Berat Ergün. Supervisor: Ayşenur Birtürk. Jury members: Mehmet Evren Coşkun and Eren Ulu.
 
 ## Project page
 
