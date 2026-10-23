@@ -7,6 +7,7 @@ We plan to develop a clothing recommendation system that considers the user’s 
 ## Documents
 
 - [Project Proposal (PDF)](PerDrobe_CMPE491_Project_Proposal.pdf)
+- [Project Specifications (PDF)](PerDrobe_Project_Specifications.pdf)
 - [Editable proposal (DOCX)](PerDrobe_CMPE491_Project_Proposal.docx)
 
 ## Team
